@@ -1,0 +1,15 @@
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/bin/Debug/net5.0/Payslip.deps.json
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/bin/Debug/net5.0/Payslip.runtimeconfig.json
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/bin/Debug/net5.0/Payslip.runtimeconfig.dev.json
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/bin/Debug/net5.0/Payslip.dll
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/bin/Debug/net5.0/ref/Payslip.dll
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/bin/Debug/net5.0/Payslip.pdb
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/Payslip.csprojAssemblyReference.cache
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/Payslip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/Payslip.AssemblyInfoInputs.cache
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/Payslip.AssemblyInfo.cs
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/Payslip.csproj.CoreCompileInputs.cache
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/Payslip.dll
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/ref/Payslip.dll
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/Payslip.pdb
+/Users/Ehsaas.Grover/Projects/Payslip/Payslip/obj/Debug/net5.0/Payslip.genruntimeconfig.cache
